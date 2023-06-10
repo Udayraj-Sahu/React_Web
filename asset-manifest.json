@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_Web/static/css/main.9da13f15.css",
+    "main.js": "/React_Web/static/js/main.63b98723.js",
+    "static/media/ai.png": "/React_Web/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/Feature_Image.png": "/React_Web/static/media/Feature_Image.6e7a9ca3d911f10a3916.png",
+    "static/media/blog01.png": "/React_Web/static/media/blog01.a70724b9d4d51ea2fdd2.png",
+    "static/media/blog04.png": "/React_Web/static/media/blog04.c62641909d5d38a2d5e7.png",
+    "static/media/blog03.png": "/React_Web/static/media/blog03.2eb6a4d987ef561b575b.png",
+    "static/media/blog05.png": "/React_Web/static/media/blog05.e5c3d21d67578e1e28d9.png",
+    "static/media/bloog02.png": "/React_Web/static/media/bloog02.7c37bdc6635ee526957b.png",
+    "static/media/people.png": "/React_Web/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/dropbox.png": "/React_Web/static/media/dropbox.256390c306b88ca3ec3c.png",
+    "static/media/logos.svg": "/React_Web/static/media/logos.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/React_Web/index.html",
+    "main.9da13f15.css.map": "/React_Web/static/css/main.9da13f15.css.map",
+    "main.63b98723.js.map": "/React_Web/static/js/main.63b98723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da13f15.css",
+    "static/js/main.63b98723.js"
+  ]
+}
